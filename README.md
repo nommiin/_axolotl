@@ -6,7 +6,7 @@ No reason really, if I had to give one I guess it'd be boredom. This isn't meant
 
 #Features
 Summary:
-You can push strings to the stack (maximum length of 255) and then print them out.
+You can push strings to the stack (maximum length of 255) and then print them out... that's it for now.
 
 Current:
 - The ability to push strings to the program's stack.
