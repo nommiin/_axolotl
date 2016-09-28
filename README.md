@@ -33,6 +33,9 @@ A: See above.
 Q: No really, why?
 A: See above.
 
+Q: Why GameMaker Language?
+A: Well, I've been using it forever now... so I'm just most comfortable with it.
+
 Q: Is this meant to be like Piet?
 A: No, I actually have no idea about Piet before making _axolotl.
 
