@@ -5,6 +5,9 @@ _axolotl is an esoteric programming language that is made of in-line coloured pi
 No reason really, if I had to give one I guess it'd be boredom. This isn't meant to be a real programming "language", I'm just doing this for reaserch and learning purposes. A lot of features you might see in other programming languages are missing.
 
 #Features
+Summary:
+You can push strings to the stack (maximum length of 255) and then print them out.
+
 Current:
 - The ability to push strings to the program's stack.
 - The ability to print the string inside of the stack.
