@@ -19,6 +19,7 @@ Planned:
 - Functions
 - Drawing Graphics
 - Playing Audio
+- Make a compiler that isn't horrible
 
 Dreams:
 - An example game made in _axolotl
