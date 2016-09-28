@@ -1,2 +1,2 @@
 # _axolotl
-_axolotl is an esoteric programming language that is made of in-line coloured pixels.
+_axolotl is an esoteric programming language that is made of in-line coloured pixels programmed in GameMaker: Studio.
