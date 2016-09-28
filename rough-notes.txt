@@ -1,0 +1,19 @@
+!! These notes might be outdated or just plain bad. I'll occassionally update them every now and then.
+
+~~ Program Initiation
+(128,128,128) = Cartridge Background
+(0,0,0) = Program Start
+(255,255,255) = Program End
+
+~~ Stack Manipulation
+(255,200,16) = Push String (Following this is the string length, ad the strings.)
+
+~~ Functions
+(128,64,128) = Print
+
+~~ Notes
+All strings have a Red and Green value of 99, the Blue value is the ASCII character.
+Example: (99,99,65) would be 'A'
+
+Integers have a Red and Green value of 255, the Blue value is the number
+Example: (255,255,64) would be '64'
