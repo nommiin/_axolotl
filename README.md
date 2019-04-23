@@ -1,10 +1,10 @@
 # _axolotl
 _axolotl is an esoteric programming language that is made of in-line coloured pixels programmed in GameMaker: Studio.
 
-#Why?
+# Why?
 No reason really, if I had to give one I guess it'd be boredom. This isn't meant to be a real programming "language", I'm just doing this for reaserch and learning purposes. A lot of features you might see in other programming languages are missing.
 
-#Features
+# Features
 Summary:
 You can push strings to the stack (maximum length of 255) and then print them out... that's it for now.
 
@@ -27,7 +27,7 @@ Dreams:
 - Lua to _axolotl
 - GML to _axolotl
 
-#Questions
+# Questions
 Q: Do you have any idea what you're doing?
 A: Nope.
 
